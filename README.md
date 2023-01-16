@@ -1,5 +1,5 @@
 # Contact_Us
- Cucumber, Selenium &amp; Java - in under 2 Hours! - [New 2023]
+ Selenium WebDriver 4, Cucumber BDD, Java & More! [NEW: 2023]
  
 # Project Satus
 > - Done! :white_check_mark:
@@ -18,10 +18,7 @@
 <div id='sobre'/>
 
 ## :file_folder: About Project
->*Quick and objective project that shows an introduction of what it's like to work with selenium, java and cucumber
-to perform automation test for web applications, using the website from the same creator of the course
-where on this web page we have a form to fill in, send the information and validate the message from
-answer.*
+>*Full Automation Testing Bootcamp! Learn automation testing using Selenium Webdriver 4, Java, Cucumber BDD, TestNG & More.*
 
 *******
 
@@ -38,6 +35,7 @@ answer.*
 - Intellij
 - Google
 - Chrome Driver
+- Jenkins
 
 *******
 
