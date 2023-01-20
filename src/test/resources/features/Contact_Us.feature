@@ -1,7 +1,8 @@
 @contact-us
+@regression
 Feature: Webdriver University - Contact Us Page
 
-  @n1
+  @validateContact
   Scenario: Validate Successful Submission
     Given I access the webdriver university contact us page
     When I enter a first name
@@ -11,7 +12,7 @@ Feature: Webdriver University - Contact Us Page
     And I click on the submit button
     Then I should be presented with a successful contact us submission message
 
-   @n2
+  @validateContactVariable
   Scenario: Validate Successful Submission - Specific data
     Given I access the webdriver university contact us page
     When I enter a specific first name Bruno
