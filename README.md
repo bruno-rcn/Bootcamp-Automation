@@ -1,5 +1,5 @@
-# Contact_Us
- Selenium WebDriver 4, Cucumber BDD, Java & More! [NEW: 2023]
+# Bootcamp about automation tests
+Selenium WebDriver 4, Cucumber BDD, Java & More! [NEW: 2023]
  
 # Project Satus
 > - Done! :white_check_mark:
@@ -9,9 +9,8 @@
 1. [About Project](#sobre)
 2. [Tools](#ferramentas)
 3. [Environment](#ambiente)
-4. [How to execute the test](#execucao)
-5. [Documentation](#documentacao)
-6. [Author](#autor)
+4. [Documentation](#documentacao)
+5. [Author](#autor)
 
 *******
 
@@ -51,14 +50,7 @@
 
 > ### ChromeDriver -> [Download do ChromeDriver](https://chromedriver.chromium.org/downloads).
 
-*******
-
-<div id='execucao'/>
-
-## :file_folder: How to execute the test
-
-- Access the file Contact_Us.feature
-- Click on play (Run)
+> ### Jenkins -> [Jenkins Documentation](https://www.jenkins.io/doc/).
 
 *******
 
@@ -70,14 +62,15 @@
 > - :blue_book: : [Selenium Documentation](https://www.selenium.dev/documentation/pt-br/getting_started/).
 > - :blue_book: : [Maven Documentation](https://maven.apache.org/guides/index.html).
 > - :blue_book: : [Cucumber Documentation](https://cucumber.io/docs/cucumber/).
+> - :blue_book: : [Jenkins Documentation](https://www.jenkins.io/doc/).
 
 *******
 
 <div id='autor'/>
 
 ## :bust_in_silhouette: Author
-:computer: Bruno Noberto: [Linkedin](https://www.linkedin.com/in/bruno-noberto/).
+:computer: Bruno Ricardo Camara Noberto: [Linkedin](https://www.linkedin.com/in/bruno-noberto/).
 <br/>
-:telephone_receiver: +55 (11) 95651-8678
+:telephone_receiver: +55 11 95651 8678
 *******
 
